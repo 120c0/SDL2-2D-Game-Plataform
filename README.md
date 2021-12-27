@@ -6,7 +6,7 @@
 - Collision
 
 ## Images
-<img src="prints/image_1prints/image_1.png"/>
-<img src="prints/image_1prints/image_2.png"/>
-<img src="prints/image_1prints/image_3.png"/>
-<img src="prints/image_1prints/image_4.png"/>
+<img src="prints/image_1.png"/>
+<img src="prints/image_2.png"/>
+<img src="prints/image_3.png"/>
+<img src="prints/image_4.png"/>
